@@ -1,0 +1,36 @@
+body, html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+
+body{
+    background-color: rgb(89, 89, 212);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+header, footer{
+    color: white;
+    font-size: 1.6rem;
+}
+
+section{
+    background-color: white;
+    border-radius: 1rem;
+    width: 50rem;
+    padding: 1.5rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+section > div > p, h2{
+    font-size: 2.4rem;
+    text-align: center;
+}
