@@ -21,6 +21,11 @@ body{
     font-size: 1.6rem;
 }
 
+label, input{
+    font-size: 1.4rem
+}
+
+
 section{
     background-color: white;
     border-radius: 1rem;
