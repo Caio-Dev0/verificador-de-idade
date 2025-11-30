@@ -79,7 +79,7 @@ Abra o arquivo index.html diretamente em seu navegador.
 
 * Input Handling: Captura e tratamento de dados de formulário e radio buttons.
 
-* Manipulação do DOM Avançada: Inserção dinâmica de elementos (<img>) na página após a submissão do formulário
+* Manipulação do DOM Avançada: Inserção dinâmica de elementos (img) na página após a submissão do formulário
 ---
 
 ## 👨‍💻 Autor
