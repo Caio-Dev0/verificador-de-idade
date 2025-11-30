@@ -10,7 +10,7 @@ function verificarIdade(){
     let anoAtual = dataAtual.getFullYear()
     let generoPessoa = ''
 
-    if(formularioAno.value === 0 || formularioAno.value > anoAtual){
+    if(Number(formularioAno.value) === 0 || Number(formularioAno.value) > anoAtual){
         alert("Insira um ano Válido")
     }else{
         let idadePessoa = anoAtual - formularioAno.value
